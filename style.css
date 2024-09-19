@@ -12,6 +12,7 @@ body {
 
 body {
     background-color: #e8e3e3;
+    overflow-x : hidden;
 }
 
 #main {
